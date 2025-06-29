@@ -1,4 +1,5 @@
-"SQL-Data-Modeling-Sprint-Project" 
+SQL-Data-Modeling-Sprint-Project
+
 This project builds a database system to manage courses, trainers, trainees, schedules, and enrollments for a training institute. It helps different users—trainees, trainers, and admins access and manage relevant course information efficiently and highlights how structured data supports efficient workflows and reliable AI/ML systems.
 
 🎯 Content:
